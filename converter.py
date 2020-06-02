@@ -21,5 +21,4 @@ if directoryFolderInput != "" and directoryFolderOutput != "":
     convert(directoryFolderInput, directoryFolderOutput)
 if directorFile != "":
     convert(directoryFolderInput)
-input("Нажмите Enter для выхода")
 window.close()
