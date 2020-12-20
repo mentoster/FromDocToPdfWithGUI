@@ -19,6 +19,6 @@ if directorFile != "":
     convert(directorFile)
 if directoryFolderInput != "" and directoryFolderOutput != "":
     convert(directoryFolderInput, directoryFolderOutput)
-if directorFile != "":
+if directoryFolderInput != "":
     convert(directoryFolderInput)
 window.close()
